@@ -11,7 +11,11 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
+<<<<<<< HEAD
   Welcome to ${PREFIX}'s app. This is an awesome clearance sale.
+=======
+  This is an awesome clearance sale.
+>>>>>>> f527259dd5dc2ca519ffc857c55497bc70eec767
   <!-- END -->
 
   </div>
